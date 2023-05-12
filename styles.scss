@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.header-container {
+	background-color: #1f2937;
+	padding: 20px 0;
+	display: flex;
+	justify-content: center;
+}
+
+.header {
+	width: 900px;
+	display: flex;
+	justify-content: space-between;
+}
