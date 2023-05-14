@@ -119,3 +119,31 @@
 	font-family: Arial, Helvetica, sans-serif;
 	color: #1f2937;
 }
+
+.container4 {
+	display: flex;
+	justify-content: center;
+	padding: 80px;
+}
+
+.sign-up {
+	display: flex;
+	background-color: #3882f6;
+	border-radius: 6px;
+	padding: 40px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+	background-color: transparent;
+	border: 2px solid white;
+	border-radius: 6px;
+	color: white;
+	padding: 10px;
+	margin-left: 60px;
+}
+
+.sign-up .text p {
+	color: #bcc1c9;
+}
